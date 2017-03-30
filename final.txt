@@ -1,0 +1,56 @@
+<div class="boat-title"><h1>1992Catalina 36</h1></div>
+<div class="boat-price">US$59,900</div>
+<div class="boat-location">City Island, NY</div>
+<dt>Current Price:</dt><dd>US$59,900</dd>
+LOA: 36 ft 4 in<br/>
+Maximum Draft: 5 ft 10 in<br/>
+Engine Brand: Universal<br/>
+Year Built: 1992<br/>
+Engine Model: M35<br/>
+Engine Hours: 1500<br/>
+Engine Power: 30 HP<br/>
+Fresh Water Tanks: 2 Plastic (72 Gallons)<br/>
+Fuel Tanks: 1 Aluminum (32 Gallons)<br/>
+Holding Tanks: 1 Plastic (17 Gallons)<br/>
+ 
+<div class="boat-title"><h1>1993Catalina 36</h1></div>
+<div class="boat-price">US$53,000</div>
+<div class="boat-location">Huntington, NY</div>
+<dt>Current Price:</dt><dd>US$53,000</dd>
+Builder: Catalina<br/>
+Designer: Frank Butler<br/>
+LOA: 36 ft 0 in<br/>
+Maximum Draft: 5 ft 10 in<br/>
+Engine Brand: Universal<br/>
+Year Built: 1993<br/>
+Engine Model: M-25<br/>
+Engine Hours: 1360<br/>
+Engine Power: 30 HP<br/>
+ 
+<div class="boat-title"><h1>2000Catalina 34 MkII</h1></div>
+<div class="boat-price">US$77,500</div>
+<div class="boat-location">New Bern, NC</div>
+<dt>Current Price:</dt><dd>US$77,500</dd>
+LOA: 35 ft 10 in<br/>
+Engine Brand: Universal<br/>
+Engine Model: M-35 BC<br/>
+Engine Power: 30 HP<br/>
+Fresh Water Tanks: (55 Gallons)<br/>
+Fuel Tanks: (25 Gallons)<br/>
+Holding Tanks: (18 Gallons)<br/>
+ 
+<div class="boat-title"><h1>1991Cabo Rico 34</h1></div>
+<div class="boat-price">US$37,900</div>
+<div class="boat-location">Oriental, NC</div>
+<dt>Current Price:</dt><dd>US$37,900</dd>
+Designer: W.I.B. Crealock<br/>
+LOA: 37 ft 0 in<br/>
+Maximum Draft: 4 ft 10 in<br/>
+Engine Brand: Westerbeke<br/>
+Year Built: 1991<br/>
+Engine Model: 35B<br/>
+Engine Hours: 1500<br/>
+Engine Power: 27 HP<br/>
+Fresh Water Tanks: (146 Gallons)<br/>
+Fuel Tanks: (40 Gallons)<br/>
+ 

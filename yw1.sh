@@ -4,7 +4,7 @@ rm ./*.txt
 
 fromPrice=500
 toPrice=80000
-fromYear=1980
+fromYear=1990
 toYear=2017
 fromLength=34
 toLength=40
@@ -18,10 +18,10 @@ grep -A1 make-model result.txt | grep href | cut -d\" -f2>results.txt
 for x in `cat results.txt`
 do 
   URL="http://www.yachtworld.com"$x
-  boat=`echo $x | cut -d\/ -f4`
-  echo "Boat-title: "$boat >> final.txt
+  # boat=`echo $x | cut -d\/ -f4`
+  # echo -n "Boat-title: "$boat >> final.txt
   wget -O temp.txt $URL
-  grep 'Current\ Price:\|Builder:\|Designer:\|LOA:\|Maximum\ Draft:\|Engine\ Brand:\|Year\ Built:\|Engine\ Model:\|Engine\ Hours:\|Engine\ Power\|Fresh\ Water\ Tanks:\|Fuel\ Tanks:\|Holding\ Tanks:' temp.txt | sed -e 's/&nbsp;//g' | sed -e 's/  //g' | sed -e 's/\t//g' >> final.txt
+  grep 'boat-title\|boat-price\|boat-location\|Current\ Price:\|Builder:\|Designer:\|LOA:\|Maximum\ Draft:\|Engine\ Brand:\|Year\ Built:\|Engine\ Model:\|Engine\ Hours:\|Engine\ Power\|Fresh\ Water\ Tanks:\|Fuel\ Tanks:\|Holding\ Tanks:' temp.txt | sed -e 's/&nbsp;//g' | sed -e 's/  //g' | sed -e 's/\t//g' >> final.txt
   echo " " >> final.txt
 done
 # remove html tags
