@@ -8,7 +8,7 @@ fromYear=1990
 toYear=2017
 fromLength=34
 toLength=40
-man='tartan%2Ccatalina%2Ccabo+rico%2Cmason%2Ccape+dory'
+man='tartan%2Ccatalina%2Ccabo+rico%2Cmason%2Ccape+dory%2Cnajad%2Cpacket'
 
 toGet='http://www.yachtworld.com/core/listing/cache/searchResults.jsp?toPrice='$toPrice'&Ntk=boatsEN&type=%28Sail%29&fromYear='$fromYear'&searchtype=advancedsearch&hmid=102&sm=3&enid=100&toYear='$toYear'&luom=126&currencyid=100&cit=true&toLength='$toLength'&boatsAddedSelected=-1&fromLength='$fromLength'&ftid=101&fromPrice='$fromPrice'&man='$man'&slim=quick&spid=131&spid=132&No=0&ps=1000'
 
