@@ -55,4 +55,6 @@ done
 # remove html tags
 sed -e 's/<[^>]*>//g' output.txt | sed -e '/Pending/d' > finalOutput.txt
 
+#open with vi :s%/^M//g to get the ^M press ctl+v+m this will replace all ^M's save out
+
 #open finalOutput.txt with excell
